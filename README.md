@@ -1,6 +1,6 @@
 # TTS, from Google Translate
 
-Go API for converting Text to Speech.
+Google Translate API wrapper in Go for converting Text to Speech.
 
 ## Example
 
