@@ -14,7 +14,7 @@ import (
 	"log"
 	"os"
 
-	tts "github.com/nubunto/teetees"
+	tts "github.com/nubunto/tts"
 )
 
 func main() {
